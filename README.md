@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil
 
-💻 AI & Data Science Student  
+💻 AI & ML Student  
 🚀 Interested in Machine Learning, NLP and AI Systems  
 
 ---

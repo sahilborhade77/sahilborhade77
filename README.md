@@ -1,8 +1,29 @@
-👋 Hi! I'm Sahil
-       
+# 👋 Hi, I'm Sahil
 
-My primary programming language is Python, and my long-term interests focus on Deep Learning, LLM, Graph-based computation, and Agent systems. In recent months, I have been concentrating on Agent architecture design together with the exploration of practical application scenarios.
+💻 AI & Data Science Student  
+🚀 Interested in Machine Learning, NLP and AI Systems  
 
-I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
+---
 
-I'm currently a Student. I focus on the practical implementation and realization of the 'AI Predicting the Future' vision.
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+![NLP](https://img.shields.io/badge/NLP-purple)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
+![Git](https://img.shields.io/badge/Git-black)
+
+---
+
+### 🚀 Projects
+
+- 📊 Loan Default Prediction
+- 🤟 Sign Language Recognition
+- 📄 Resume–Job Matching System
+
+---
+
+### 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sahil-borhade-ai/
+- Email: sahilborhade77@gmail.com

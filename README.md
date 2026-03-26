@@ -17,11 +17,11 @@
 
 ### 🚀 Projects
 
-- 📊 [Loan Default Prediction](https://github.com/yourusername/repo-name)
-- 🤟 [Sign Language Recognition](https://github.com/yourusername/repo-name)
-- 📄 [Resume–Job Matching System](https://github.com/yourusername/repo-name)
-- 🎭 [Deepfake Detection](https://github.com/yourusername/deepfake-detection)
-- 🚦 [Smart AI Traffic Management](https://github.com/yourusername/smart-ai-traffic-management)
+- 📊 [Loan Default Prediction](https://github.com/sahilborhade77/loan-default-prediction)
+- 🤟 [Sign Language Recognition](https://github.com/sahilborhade77/sign_language)
+- 📄 [Resume–Job Matching System](https://github.com/sahilborhade77/resume-matcher)
+- 🎭 [Deepfake Detection](https://github.com/sahilborhade77/Deepfake-Detection)
+- 🚦 [Smart AI Traffic Management](https://github.com/sahilborhade77/Smart-AI-Traffic-Management)
 
 ---
 

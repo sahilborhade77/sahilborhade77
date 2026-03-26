@@ -17,9 +17,11 @@
 
 ### 🚀 Projects
 
-- 📊 Loan Default Prediction
-- 🤟 Sign Language Recognition
-- 📄 Resume–Job Matching System
+- 📊 [Loan Default Prediction](https://github.com/yourusername/repo-name)
+- 🤟 [Sign Language Recognition](https://github.com/yourusername/repo-name)
+- 📄 [Resume–Job Matching System](https://github.com/yourusername/repo-name)
+- 🎭 [Deepfake Detection](https://github.com/yourusername/deepfake-detection)
+- 🚦 [Smart AI Traffic Management](https://github.com/yourusername/smart-ai-traffic-management)
 
 ---
 

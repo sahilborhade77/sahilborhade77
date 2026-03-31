@@ -22,7 +22,7 @@
 - 🤟 [Sign Language Recognition](https://github.com/sahilborhade77/sign_language)
 - 📄 [Resume–Job Matching System](https://github.com/sahilborhade77/resume-matcher)
 - 🎭 [Deepfake Detection](https://github.com/sahilborhade77/Deepfake-Detection)
-- 🚦 [Smart AI Traffic Management](https://github.com/sahilborhade77/Smart-AI-Traffic-Management)
+- 🚦 [Smart AI Traffic Management](https://github.com/sahilborhade77/traffic)
 ---
 
 ## 📚 Currently Learning

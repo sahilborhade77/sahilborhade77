@@ -19,21 +19,44 @@
 
 ### 🏆 Pinned Project Showcases
 
-#### 🩺 1. VitalGuard — Remote Patient Monitoring System
+### 📩 1. Paperfold — Digital Memory Card Platform
+
+*A modern web application for creating and sharing personalized digital memory cards that combine photos, handwritten letters, and music into a beautiful interactive experience.*
+
+- **Core Technical Actions:** Built a multi-step React workflow for creating personalized memory cards with photo uploads, handwritten-style messages, music integration, responsive layouts, and cloud-based sharing using Supabase Storage and PostgreSQL.
+
+- **Cloud Architecture:** Integrated Supabase Database, Storage, and Row Level Security (RLS) with Vercel deployment to enable secure file uploads, persistent cloud storage, and unique shareable links for recipient access.
+
+- **Key Features:**
+  - 📸 Photo Upload
+  - ✍️ Rich Letter Editor
+  - 🎵 Custom Music Upload
+  - 💾 Draft & Archive Management
+  - ☁️ Supabase Cloud Storage
+  - 🔗 Shareable Memory Cards
+  - 📱 Responsive UI
+
+- 🛠️ **React 19** • **TypeScript** • **Vite** • **Supabase** • **PostgreSQL** • **Supabase Storage** • **Vercel**
+
+- 🌐 **Live Demo:** https://paperfold-iota.vercel.app
+
+- 🔗 **Explore Repository:** https://github.com/sahilborhade77/Paperfold
+
+#### 🩺 2. VitalGuard — Remote Patient Monitoring System
 *An event-driven cloud-to-cloud telemetry pipeline evaluating time-series biometrics for proactive clinical diagnostics.*
 * **Core Technical Actions:** Hooks into high-resolution 5-second interval intraday wearable streams using asynchronous FastAPI webhook configurations on Render, pipes streaming data to Firebase WebSockets, and renders a live high-density nurse triage interface built with React and Tremor UI. 
 * **AI Architecture:** Combines an interpretable Random Forest Classifier with a sequential Long Short-Term Memory (LSTM) network to compute a rolling 0-100 Clinical Risk Index, firing automated diagnostic warnings via the Twilio API gateway.
 * 🛠 `FastAPI` • `React.js` • `Firebase Cloud Realtime DB` • `TensorFlow` • `Twilio API`
 * 🔗 **[Explore Repository](https://github.com/sahilborhade77/vitalguard-backend)**
 
-#### 🎭 2. Deepfake Detection System
+#### 🎭 3. Deepfake Detection System
 *An end-to-end computer vision and sequence verification framework designed to identify multi-modal semantic and structural manipulations in synthetic media.*
 * **Core Technical Actions:** Preprocesses diverse video benchmarks to extract frame-level high-frequency artifacts; leverages spatial feature extractions combined with sequential recurrence networks to identify frame-to-frame temporal inconsistency.
 * **AI Architecture:** Combines deep convolutional feature extractors (XceptionNet) with sequence-aware Recurrent Neural Network layers (LSTM) built natively on PyTorch.
 * 🛠 `PyTorch` • `XceptionNet` • `LSTM` • `OpenCV` • `Python`
 * 🔗 **[Explore Repository](https://github.com/sahilborhade77/Deepfake-Detection)**
 
-#### 🚦 3. Smart AI Traffic Intelligence System
+#### 🚦 4. Smart AI Traffic Intelligence System
 *A real-time deep learning computer vision pipeline designed to analyze intersection vehicle density and optimize throughput.*
 * **Core Technical Actions:** Streamlines real-time edge video ingestion pipelines to perform high-concurrency vehicle detection, classification, and multi-object tracking across complex geometric road layouts under variable lighting conditions.
 * **AI Architecture:** Developed using custom-trained YOLO object detection weights optimized within PyTorch for micro-latency bounding-box operations.
